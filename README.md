@@ -14,7 +14,7 @@ A new fasta file was created that contains the consensus sequence from the 10 ca
 
 ## 4. The average percentage of the chemical constituents (C, G, T, and A) and the CG content
 They were obtained for the 10 Omicron sequences and the consensus sequence.
-<img src="content.png"/>
+<img src="contents.png"/>
 
 ## 5. Dissimilar regions:
 They were obtained and saved in an excel file.
